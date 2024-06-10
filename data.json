@@ -1,4 +1,10 @@
 [
+  {
+    "channel_name" : "Join Telegram",
+    "channel_genre" : "Entertainment",
+    "logo" : "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png",
+    "target" : "https://t.me/allinonereborn"
+  },
     {
       "channel_id": "578",
       "channel_name": "&TV",
@@ -43,7 +49,7 @@
     },
     {
     "channel_name": "Disney India HD",
-    "channel_genre": "Kids",
+    "channel_genre": "Kid",
     "logo": "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png",
     "target" : "https://allinonereborn.tech/player.html"
     },
